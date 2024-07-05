@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TTS3_LEHOAN.props" />
+</Project>
